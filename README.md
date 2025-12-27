@@ -22,3 +22,5 @@ além de contar com um modo escuro para melhorar a experiência do usuário.
 - HTML5 – Estrutura da página  
 - CSS3 – Estilização e modo escuro  
 - JavaScript (DOM) – Lógica, interação e manipulação dos elementos  
+
+Para visualizar clone o repositório e abra o index.html
